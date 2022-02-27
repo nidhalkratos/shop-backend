@@ -1,0 +1,8 @@
+{
+  "scripts":{
+    "serve" : "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
