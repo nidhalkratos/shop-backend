@@ -2,9 +2,15 @@
     {
         "id" : 1,
         "title" : "TV",
-        "image" : {
-            "url" : "https://images.samsung.com/is/image/samsung/levant-hdtv-n4000-global-ua43n5000arxtw-frontblack-113496207?$720_576_PNG$"
-        },
+        "images" : [
+            {
+                "url" : "https://images.samsung.com/is/image/samsung/levant-hdtv-n4000-global-ua43n5000arxtw-frontblack-113496207?$720_576_PNG$"
+            },
+            {
+                "url" : "https://sc04.alicdn.com/kf/He67b14a5174f46dead3268d4358d4d1bi.jpg"
+            }
+
+        ],
         "description" : "Reprehenderit officia nostrud ipsum irure non voluptate Lorem amet cupidatat sit ipsum incididunt. Ipsum eu ea magna mollit nostrud officia. Occaecat id nisi Lorem ullamco mollit consectetur esse sunt laborum ex do esse. Officia aute quis aliqua duis labore id sit labore. Adipisicing velit reprehenderit duis consequat proident.",
         "colors" : ["#fff548"],
         "variants" : [
@@ -19,9 +25,9 @@
     {
         "id" : 2,
         "title" : "Tshirt",
-        "image" : {
+        "images" : [{
             "url" : "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1e%2F86%2F1e86c77fb86afc19daad9acb5b39470e7bc5ca1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
-        },
+        }],
         "description" : "Eiusmod dolore culpa dolor ut consequat amet culpa ex aute incididunt aliquip. Aliqua enim culpa nisi elit reprehenderit tempor ut. Laborum commodo quis consectetur velit tempor dolor sunt exercitation aliquip ipsum sunt. Voluptate ipsum ullamco magna ullamco mollit sunt. Eu ex est in aliqua dolore labore aliqua proident incididunt proident ad dolore. Officia do consequat reprehenderit culpa est anim proident dolore tempor deserunt ut ipsum exercitation culpa. Fugiat Lorem do incididunt non eiusmod ullamco fugiat..",
         "colors" : ["#0000ff", "#000000"],
         "variants" : [
@@ -36,9 +42,9 @@
     {
         "id" : 3,
         "title" : "PC Gamer",
-        "image" : {
+        "images" : [{
             "url" : "https://m.media-amazon.com/images/I/91LSF1iZUFL._AC_SY355_.jpg"
-        },
+        }],
         "description" : "Culpa ullamco nostrud ipsum incididunt quis tempor labore duis enim ipsum ullamco mollit excepteur. Cupidatat qui commodo dolore aute ea mollit. Dolor nostrud tempor elit commodo exercitation aliquip incididunt eiusmod sit adipisicing reprehenderit nulla eiusmod.",
         "colors" : ["#f43abc"],
         "variants" : [
